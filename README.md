@@ -17,3 +17,7 @@ I am a Second-year B.tech student in the <a href='https://www.psit.ac.in/academi
 - 📫 How to reach me **sudhanshumishra9491@gmail.com**
 
 - 📫 Visit my personal **[Portfolio](https://sudhanshu9491.vercel.app/)**
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sudhanshu9491&langs_count=15&layout=compact&theme=highcontrast&show_icons=true)](https://github.com/Sudhanshu9491/github-readme-stats)
