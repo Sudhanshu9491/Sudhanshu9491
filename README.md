@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35" height="35" > Hi there ✨   I'm Sudhanshu Mishra ✨
 
 [GitHub](https://github.com/Sudhanshu9491)
-[LinkedIn](linkedin.com/in/sudhanshu-mishra-a99b7a259)
+[LinkedIn](https://linkedin.com/in/Sudhanshu9491)
 
 I am a Third-year B.tech student in the <a href='https://www.psit.ac.in/academics/eb/computer-science-and-engineering' target="_blank">Computer Science Department</a> at
  <a href='https://www.psit.ac.in/' target="_blank">Pranveer Singh Institute Of Technology</a>, I am broadly
