@@ -69,7 +69,7 @@ I am a Third-year B.tech student in the <a href='https://www.psit.ac.in/academic
 <div align="center">
     <h3><b>Programming Languages</b></h3>
     <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" title="HTML5" alt="html5" height="40"/></a></code>&nbsp;
-    <code><a href="#" target="_blank"> <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png](https://commons.wikimedia.org/wiki/Category:Java_logos#/media/File:Javafwe.png)" title="java" alt="java"  height="40"/></a></code>&nbsp;
+    <code><a href="#" target="_blank"> <img src="https://camo.githubusercontent.com/1c218f47498d8637de949b2339161407b0b31d1a7ad1d3dee50e43fd7b127def/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f656e2f7468756d622f332f33302f4a6176615f70726f6772616d6d696e675f6c616e67756167655f6c6f676f2e7376672f33303070782d4a6176615f70726f6772616d6d696e675f6c616e67756167655f6c6f676f2e7376672e706e67" title="java" alt="java"  height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" title="Python" alt="python"  height="40"/></a></code>&nbsp;&nbsp;
     <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" title="JavaScript" alt="JavaScript"  height="40"/></a></code>&nbsp;&nbsp;
   </a> 
