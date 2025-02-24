@@ -14,7 +14,7 @@
 <!-------------------------------------------------------------------------------------------------------------------------------------------------->
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="#" target="_blank">
-        <img src="https://github-widgetbox.vercel.app/api/profile?username=Sudhanshu9491&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%" height="0%">
+        <img src="https://github-widgetbox.vercel.app/api/profile?username=Sudhanshu9491&data=repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%" height="0%">
     </a>
 
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35" height="35" > Hi there ✨   I'm Sudhanshu Mishra ✨
