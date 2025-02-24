@@ -21,7 +21,10 @@ I am a Third-year B.tech student in the <a href='https://www.psit.ac.in/academic
 <div>
    <div align="center">
 
-# <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> GitHub Stats
+<a href="javascript:void(0);">
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> GitHub Stats
+</a>
+
 
 <p align="center">
   <a href="https://github.com/Sudhanshu9491">
