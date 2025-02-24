@@ -23,23 +23,42 @@
         <a href="https://github.com/Sudhanshu9491"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&width=450&lines=Hi+%F0%9F%91%8B%2C+I'm+Sudhanshu+Mishra%2C;Full+Stack+Developer%2C;And++Programming+Enthusiast..." alt="Typing SVG" /></a>
     </div>
 
-[GitHub](https://github.com/Sudhanshu9491)
-[LinkedIn](https://linkedin.com/in/Sudhanshu9491)
+<div align="center">
+        <a href="https://www.linkedin.com/in/Sudhanshu9491"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" /></a>
+        <a href="mailto:sudhanshumishra9491@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+    </div>
+    <div align="left">
+        <br />
+        <p>
+            <strong>
+Aspiring software engineer with a flair for web design and front-end development! Skilled in crafting captivating user experiences with HTML, CSS, JavaScript, React.js. I thrive on creating seamless, intuitive interfaces that bring ideas to life. Always on the hunt for innovative tools and techniques. Let's code something amazing together! 
+            </strong>
+        </p>
+        <h1></h1>
+        <ul>
+            <li>🔭 <b>I’m currently working on</b>: Ecommerce website and Deepfake video detection</li>
+            <li>🌱 <b>I’m currently learning</b>: Python, System Design.</li>
+            <li>💬 <b>Ask me about</b>: Web Development, Web Designing</li>
+            <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆, in addition to follow me here.</li>
+            <li>🤔 <b>I’m currently open for</b>: A new Internship opportunity and Open Source Projects.</li>
+        </ul>
+        <br />
+    </div>
+</div>
 
-I am a Third-year B.tech student in the <a href='https://www.psit.ac.in/academics/eb/computer-science-and-engineering' target="_blank">Computer Science Department</a> at
- <a href='https://www.psit.ac.in/' target="_blank">Pranveer Singh Institute Of Technology</a>, I am broadly
- interested in Data Structure and Algorithm and Web Development. I created an My Personal<a href="https://sudhanshu9491.vercel.app/" target="_blank" alt="website"> Portfolio</a> Using React
- <br>
+```py
+About Me = [
+  
+I'm a software engineering student passionate about front-end development and UI/UX design.
+ Skilled in HTML, CSS, JavaScript, React.js,
+I love crafting engaging user experiences and incorporating creative elements like clever Easter eggs.
 
-
-- 🌱 I’m currently learning **MERN Stack.**
-
-
-- 💬 Ask me about **Java, Web-Dev.**
-
-- 📫 How to reach me **sudhanshumishra9491@gmail.com**
-
-- 📫 Visit my personal **[Portfolio](https://sudhanshu9491.vercel.app/)**
+Outside of coding,
+I enjoy traveling.
+Let's connect and create something amazing together! 
+]
+```
+<br>
 
 <div>
    <div align="center">
