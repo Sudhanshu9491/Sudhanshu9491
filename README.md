@@ -39,4 +39,9 @@ I am a Third-year B.tech student in the <a href='https://www.psit.ac.in/academic
 <hr>
 </div>
 
+<div align="center">
+ 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sudhanshu9491&langs_count=15&layout=compact&theme=highcontrast&show_icons=true)](https://github.com/Sudhanshu9491/github-readme-stats)
+
+<hr>
+</div>
