@@ -22,7 +22,7 @@ I am a Third-year B.tech student in the <a href='https://www.psit.ac.in/academic
 
 <p align="center">
   <a href="https://github.com/Sudhanshu9491">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sunscarsony&theme=radical&border=7F3FBF&background=0D1117" alt="GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sudhanshu9491&theme=radical&border=7F3FBF&background=0D1117" alt="GitHub streak"/>
   </a>
 </p>
 
