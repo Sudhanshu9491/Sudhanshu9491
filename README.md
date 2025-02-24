@@ -45,3 +45,40 @@ I am a Third-year B.tech student in the <a href='https://www.psit.ac.in/academic
 
 <hr>
 </div>
+
+<!-- Skill Set (App Development)  -->
+<div align="center">
+    <h3><b>Frontend Development</b></h3>
+    <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" title="HTML5" alt="html5" width="40" height="40"/></a></code>&nbsp;
+    <code><a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" title="CSS3" alt="css3" width="40" height="40"/></a></code>&nbsp;
+    <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" title="JavaScript" alt="javascript" width="40" height="40"/></a></code>&nbsp;
+  
+</div>
+<br>
+<div align="center">
+    <h3><b>App Development </b></h3>
+    <code><a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a></code>&nbsp;
+    <code><a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a></code>&nbsp;
+    <code><a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a></code>&nbsp;
+    <br>
+  
+<!-- Skill Set (L&F)  -->
+<div align="center">
+    <h3><b>Libraries and Frameworks</b></h3>
+    <code><a href="#" target="_blank"> <img src="https://static-00.iconduck.com/assets.00/node-js-icon-227x256-913nazt0.png" title="NodeJS" alt="nodejs" height="40"/></a></code>&nbsp;
+      <code><a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a></code>
+      <code><a href="#" target="_blank"> <img src="https://appwrite.io/images/platforms/dark/nextjs.svg" title="NextJS" alt="nextjs" height="40"/></a></code>&nbsp;
+    <code><a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a></code>&nbsp;
+    <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" title="BootStrap" alt="bootstrap"  height="40"/></a></code>&nbsp;
+</div>
+<br>
+
+<!-- Skill Set (Database)  -->
+<div align="center">
+    <h3><b>Databases</b></h3>
+    <code><a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a></code>&nbsp;
+    <code><a href="#" target="_blank"><img src="https://www.dbi-services.com/wp-content/uploads/2022/01/Logo-Mongodb-carre.png" title="MongoDB" alt="mongodb"  height="40"/></a></code>&nbsp;
+      <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" title="PostgreSQL" alt="PostgreSQL"  height="40"/></a></code>&nbsp;
+   <code><a #="#" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" title="Firebase" alt="firebase" height="40"/></a></code>&nbsp
+</div>
+<br>
