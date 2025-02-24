@@ -13,7 +13,7 @@
 <!----- Sudhanshu's Profile Bar ----------------------------------------------------------------------------------------------------------------------->
 <!-------------------------------------------------------------------------------------------------------------------------------------------------->
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#" target="_blank">
+  <a href="https://github.com/Sudhanshu9491" target="_blank">
         <img src="https://github-widgetbox.vercel.app/api/profile?username=Sudhanshu9491&data=repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%" height="0%">
     </a>
 
