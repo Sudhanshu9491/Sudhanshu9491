@@ -46,6 +46,17 @@ I am a Third-year B.tech student in the <a href='https://www.psit.ac.in/academic
 <hr>
 </div>
 
+<!-- Skill Set (Programming Language)  -->
+<div align="center">
+    <h3><b>Programming Languages</b></h3>
+    <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" title="HTML5" alt="html5" height="40"/></a></code>&nbsp;
+    <code><a href="#" target="_blank"> <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png](https://commons.wikimedia.org/wiki/Category:Java_logos#/media/File:Javafwe.png)" title="java" alt="java"  height="40"/></a></code>&nbsp;
+    <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" title="Python" alt="python"  height="40"/></a></code>&nbsp;&nbsp;
+    <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" title="JavaScript" alt="JavaScript"  height="40"/></a></code>&nbsp;&nbsp;
+  </a> 
+ </div>
+</div>
+
 <!-- Skill Set (Frontend Development)  -->
 <div align="center">
     <h3><b>Frontend Development</b></h3>
