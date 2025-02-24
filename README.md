@@ -18,6 +18,9 @@ I am a Third-year B.tech student in the <a href='https://www.psit.ac.in/academic
 
 - 📫 Visit my personal **[Portfolio](https://sudhanshu9491.vercel.app/)**
 
+<div>
+   <div align="center">
+
 # <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> GitHub Stats
 
 <p align="center">
